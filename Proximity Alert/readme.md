@@ -3,7 +3,7 @@ The project is a simple system which detects if any object is nearby. Once it de
 
 ## Architecture
 
-![Diagram](./content/architecture.png)
+![Diagram](./content/Architecture.png)
 
 - The sensors would be connected to the device and the device would read the data from the sensors
 - The device is an IoT Edge device that will contain modules to interact with the sensors and IoT Hub
